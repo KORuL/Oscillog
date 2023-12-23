@@ -59,5 +59,4 @@ vcredist_x64.exe
 korul1@yandex.ru, в теме обязательно указать \"Oscillog+\", иначе письма
 будут проигнорированы.
 
-![](media/image2.png){width="4.2659722222222225in"
-height="4.2659722222222225in"}
+![](media/Aspose.Words.27f32d33-06f6-498a-8ec5-c7bc19ce7d49.002.png)
